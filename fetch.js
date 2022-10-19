@@ -1,5 +1,4 @@
-// const URL = "https://jsonplaceholder.typicode.com/posts";
-const URL = "https://www.reddit.com/r/india";
+const URL = "https://jsonplaceholder.typicode.com/posts";
 
 fetch(URL)
   .then((response) => {
